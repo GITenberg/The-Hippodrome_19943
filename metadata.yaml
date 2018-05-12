@@ -1,0 +1,26 @@
+_repo: The-Hippodrome_19943
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hayward, Rachel
+    birthdate: 1886
+    gutenberg_agent_id: '8980'
+    url: http://www.gutenberg.org/2009/agents/8980
+description: ''
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchists -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Barcelona (Spain) -- Fiction'
+title: The Hippodrome
+url: http://www.gutenberg.org/ebooks/19943
